@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "kind": "source identity, not scientific acceptance",
+  "files": {
+    "LICENSE-code.txt": "1eebd6c2e18e6a99f2775ee4c7ef3fef2c31b9c5ea0c9bf9ccb20be73169c719",
+    "Mirrors-of-Whole-Trajectories.md": "87cd2e704c1cfe554464b140b50d537532f8d4a6827305cd3e23c84588acd145",
+    "README.md": "b55c319455a36738fcb78f9769ae8730666a9d231049381d1f8a53526caf3195",
+    "break_harness.py": "d314ff92fb5893816c52deb85989650c561b15c51f1dfa4e57bfa7dfb621b024",
+    "deep/README.md": "c28472f2b45afff9d25ba4d95a52b939da661b1166b1f54d4e0ed9567900d6fa",
+    "deep/break_suite.py": "c8a883b5bf8ca7bfbd792a416f2ec2a3d7cc4ac12764d0b8f3046d59e7053a06",
+    "deep/map.json": "f72674b0d50957fe8fd7955666ce3754a7a849517affaaa59b23bc8115694617",
+    "deep/mutations.json": "d8323a2fe6132d2c6c142e60b9972f317dab0666f2ba191346f781f567a3c995",
+    "deep/relations.py": "f938bb4427217a5451bac35667a301ec409a4d1da51128ef42cf1f222b98db7c",
+    "deep/source-index.json": "2e71ff1a8089613f36e3a06de462f87773fe6589b6d149be71cfdd269b295e0f",
+    "deep/suite.py": "01e5ed4c4260e09c879a4a07cf7495f35a81180e8ed4c837b37224fc892d895d",
+    "harness.py": "8193a91253efec66da48f7f7c76384a97e82f18d9d3dd7eda53c321e07f5b737",
+    "lean/MirrorCausalLifting.lean": "717a70914e174d352f01d3b7ecd10f659609414589eb277fce4a16c19ccbea83",
+    "lean/MirrorChargedResidualR2.lean": "bde547d00a18c9ced5d7ca52bb9c915626d0783ac56cd25e886b93f95cded591",
+    "lean/MirrorNativeClassInverseLimit-r3p.lean": "32bef74460fb8f07cbf7cd8a8c9b86c5135c80276b989398201e26b4f69961a7",
+    "lean/MirrorNumericalInterfaces-p.lean": "a2c5cdabb7049dfa181b307c54517361477125d354d7752f41d0127dfd0a5a70",
+    "lean/Mirrors.lean": "8723d795f0f8e5613f5057dcf18328f21898a7cba954d845acf0e09fefcf8bf7",
+    "lean/MirrorsComposition.lean": "e96cfeaf454ea42b8d37e446ffcab2e35208db2e03132048c3ac24ae8df02056",
+    "lean/README.md": "d28a85aadfad285ae57cdc712ca0e50f7ac405c14fd0ad5d1bcdeb0d56f714aa",
+    "lean/compilation-record.json": "73cf22432f83eeb51e2b9a036944fda96e5d7e62123e4c271651667e5413fff8",
+    "lean/lakefile.toml": "9dcd4a62edb37d0fb2d54692161f46cb71ba73e8c9473b7b1b69dc3edcae1e8a",
+    "lean/lean-toolchain": "11c697aebe5b539d74f5069e497a588e7dfab1c4eeb74313f28357e351c55ca3"
+  }
+}

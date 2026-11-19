@@ -1,0 +1,6368 @@
+{
+  "kind": "earlier compilation record; byte-matched reuse, no new compilation",
+  "raw_report_sha256": "e9e22e3e2db73eb53bb17b840886d17fc25976e925bd0fa5c6aca3fa6b9a5ce6",
+  "toolchain": "leanprover/lean4:v4.36.0-rc2",
+  "mathlib": "9d581dfff2e41de989072ea63abf3daf69311520",
+  "files": [
+    {
+      "name": "MirrorCausalLifting.lean",
+      "sha256": "717a70914e174d352f01d3b7ecd10f659609414589eb277fce4a16c19ccbea83",
+      "errors": 0,
+      "sorry_warnings": 0,
+      "declarations": [
+        {
+          "name": "MirrorCausalLifting.inverse_causal_iff_prefix_reflection",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCausalLifting.map_history_causal",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCausalLifting.pointwise_prefix_iff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCausalLifting.causal_conjugate",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCausalLifting.common_root_source",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCausalLifting.common_root_target",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCausalLifting.diagonal_admitted",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCausalLifting.diagonal_right_inverse",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCausalLifting.diagonal_left_inverse",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCausalLifting.forward_is_causal",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCausalLifting.no_causal_admitted_section",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        }
+      ]
+    },
+    {
+      "name": "MirrorChargedResidualR2.lean",
+      "sha256": "bde547d00a18c9ced5d7ca52bb9c915626d0783ac56cd25e886b93f95cded591",
+      "errors": 0,
+      "sorry_warnings": 0,
+      "declarations": [
+        {
+          "name": "MirrorResidualWear.wear_take_le",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorResidualWear.whole_viable_iff_final",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorResidualWear.wear_append",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorResidualWear.charge_append",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorResidualWear.whole_viable_append_iff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorResidualWear.reservoir_residual_iff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorResidualWear.reservoir_set_residual",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorResidualWear.reset_false_acceptance",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorResidualWear.charged_positive_example",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorResidualWear.history_append_one_grows",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        }
+      ]
+    },
+    {
+      "name": "MirrorNativeClassInverseLimit-r3p.lean",
+      "sha256": "32bef74460fb8f07cbf7cd8a8c9b86c5135c80276b989398201e26b4f69961a7",
+      "errors": 0,
+      "sorry_warnings": 0,
+      "declarations": [
+        {
+          "name": "MirrorGeometry.euclidean_distance",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.c_pos",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.c_le_one",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.c_succ",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.c_antitone",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.c_later_le_half",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.center_distance",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.adjacent_center_distance",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.adjacent_radius_sum",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.disk_gap",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.disks_disjoint",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.real_coordinate_bound",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.imag_coordinate_bound",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.next_disk_right_edge",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.next_disk_left_of_boundary",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.next_disk_points_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.next_disk_avoided",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.a_succ_lt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.mem_X",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.X_eq_punctured_rectangle",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.stage_nesting",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.stages_monotone",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.rectangle_open",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.stage_open",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.union_open",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.small_neighbourhood_in_rectangle",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.old_disk_inside_rectangle",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.marked_circle_avoids_disk",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.marked_circle_inside_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.marked_circle_nonempty",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.positive_stage_nonempty",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothCutoff.transition_span_eq",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothCutoff.transition_span_pos",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothCutoff.chi_zero_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothCutoff.chi_one_right",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothCutoff.chi_smooth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothCutoff.chi_nonnegative",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothCutoff.chi_le_one",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothPotential.center_left_gap",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothPotential.center_lt_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothPotential.normalisation_pos",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothPotential.F_zero_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothPotential.F_agrees_right",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothPotential.potential_smoothAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothPotential.F_eventually_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothPotential.F_smooth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothPotential.F_zero_on_closed_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPotentialDifferential.chain_eq_eta",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPotentialDifferential.potential_hasFDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPotentialDifferential.potential_fderiv",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCutoffDifferential.F_eventually_agrees_right",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCutoffDifferential.F_hasFDerivAt_right",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCutoffDifferential.F_fderiv_right",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCutoffDifferential.F_hasFDerivAt_zero_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCutoffDifferential.F_fderiv_zero_on_closed_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCutoffDifferential.omega_zero_right",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCutoffDifferential.omega_eq_eta_on_closed_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.quadratic_pos_off_center",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.eta_smoothAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.eta_smoothOn_punctured_plane",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.F_fderiv_smooth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.omega_smoothAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.omega_smoothOn_punctured_plane",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.positive_center_not_mem_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.positive_center_not_mem_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.eta_smoothOn_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.omega_smoothOn_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalSynthesis.omega_tail_zero_on_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalSynthesis.weighted_tail_zero_on_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalSynthesis.weighted_hasSum_on_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalSynthesis.combined_eq_patch_on_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalSynthesis.patch_smoothAt_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalSynthesis.combined_eventually_eq_patch",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalSynthesis.combined_smoothAt_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalSynthesis.combined_smoothOn_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalSynthesis.local_uniform_tail_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.exact_form_bridge",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.zeroForm_smoothAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.exact_form_closed",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.oneForm_smoothAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.chain_eq_eta_off_vertical",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.horizontal_hasFDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.verticalChain_eq_eta",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.vertical_hasFDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.vertical_smoothAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.eta_locally_exact",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.eta_closed",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.cutoff_exact_form_closed",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.omega_closed",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.omega_closed_on_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedClosedness.weighted_oneForm",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedClosedness.weighted_form_smoothAt_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedClosedness.weighted_form_closed_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedClosedness.patch_form_succ",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedClosedness.patch_closed_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedClosedness.combined_form_eventually_eq_patch",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedClosedness.combined_closed_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.loopRadius_pos",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.param_mem_circle",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.param_mem_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.param_mem_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.param_smooth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.param_endpoints",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.param_hasDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.eta_rotated_radius",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.eta_velocity_one",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.param_re_lt_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.omega_eq_eta_on_param",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.omega_velocity_one",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.path_extend_eq",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.path_range_inside_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.path_derivWithin",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.eta_curveIntegralFun_one",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.omega_curveIntegralFun_one",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.eta_curveIntegrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.omega_curveIntegrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.eta_period_one",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.omega_period_one",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.param_re_upper",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.param_re_lower",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.later_circle_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.earlier_circle_right",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_zero_earlier",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_curveFun_zero_earlier",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_integrable_earlier",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_period_zero_earlier",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_eq_eta_later",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.potential_path_hasDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.velocity_continuous",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.eta_pullback_continuous_later",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.eta_pullback_integrable_later",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_curveFun_pullback_later",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_integrable_later",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_period_zero_later",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_integrable_all",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_period_matrix",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.weighted_function_eq_smul",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.weighted_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.weighted_period",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.patch_function_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.patch_function_succ",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.patch_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.patch_period_sum",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.patch_period_own",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.combined_curveFun_eq_patch",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.combined_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.combined_period",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.arbitrary_marked_periods_realised",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExactPeriods.scalar_smoothAt_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExactPeriods.scalar_path_hasDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExactPeriods.gradient_pullback_continuous",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExactPeriods.gradient_curveFun_eq",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExactPeriods.gradient_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExactPeriods.gradient_period_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExactPeriods.period_add_gradient_eq",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExactPeriods.period_of_exact_difference_on_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.field_curveFun_eq",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.field_pullback_continuous",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.smooth_field_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.exactRel_refl",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.exactRel_symm",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.exactRel_trans",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.exactRel_equivalence",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.exactRel_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.quotientPeriods_mk",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.positiveExtend_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.realise_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.quotientPeriods_realiseClass",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.quotientPeriods_surjective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalExactness.oneForm_fderiv",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalExactness.extDeriv_covector_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalExactness.closed_iff_symmetric",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalExactness.smooth_closed_convex_primitive",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalExactness.closedField_primitive_on_convex",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalExactness.closedField_local_primitive",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorZeroLoopPrimitive.pieces_contained",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorZeroLoopPrimitive.pieces_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorZeroLoopPrimitive.path_integrals_equal",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorZeroLoopPrimitive.local_segment_piece",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorZeroLoopPrimitive.potential_eq_path_integral",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorZeroLoopPrimitive.potential_increment_neighbourhood",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorZeroLoopPrimitive.potential_hasFDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorZeroLoopPrimitive.global_smooth_primitive",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.interp_bounds",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.line_re",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.line_im",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.point_rectangle",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.rectangle_line",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.high_im_clear",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.high_re_clear",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.anchor_mem",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.signed_abs_le",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.vertical_to_corridor",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.segment_piece",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.horizontal_corridor",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.right_connector",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.stage_piecewise_reach",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.pieces_mono",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.union_piecewise_reach",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.union_primitive_of_zero_piece_loops",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.mem_verticalClear",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.verticalClear_open",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.verticalClear_same_re",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.verticalClear_in_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.verticalClear_of_real",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.slit_open",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.corridor_point_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.slit_cover",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.slit_overlap",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.slit_vertical",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.slit_segment_piece",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.slit_horizontal",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.slit_piecewise_reach",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.slit_anchor_mem",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.squareFormula_contDiff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.verticalSquare_contDiff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.verticalSquare_range_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.vertical_square_boundary",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.corridor_convex",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.corridor_subset",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.up_mem_corridor",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.anchor_mem_corridor",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.vertical_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.horizontal_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.square_bottom_integral",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.square_top_integral",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.horizontal_increment",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.chart_increment",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.chart_increment_neighbourhood",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.chart_hasFDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.chart_contDiffOn",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.slit_primitive",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorClosedFieldSlit.slit_subset_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorClosedFieldSlit.field_smooth_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorClosedFieldSlit.field_deriv_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorClosedFieldSlit.field_symmetric_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorClosedFieldSlit.field_slit_primitive",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPrimitiveGluing.primitive_difference_constant",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPrimitiveGluing.primitive_normalized_unique",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPrimitiveGluing.glue_eq_on_charts",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPrimitiveGluing.glue_eventually_eq_on_charts",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPrimitiveGluing.glue_smoothOn",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPrimitiveGluing.glue_hasFDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPrimitiveGluing.primitive_two_chart_gluing",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.lower_lt_upper",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.lower_ge_a",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.upper_le_two",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.band_open",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.band_convex",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.band_nonempty",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.band_subset_overlap",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.center_cut",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.overlap_mem_band",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.band_disjoint_ordered",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.band_unique",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.overlap_eq_union_bands",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.slit_overlap_eq_union_bands",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.band_preconnected",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorBandTransition.canonical_smooth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorBandTransition.canonical_deriv",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorBandTransition.band_upper",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorBandTransition.band_lower",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorBandTransition.band_transition_constant",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.param_re",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.param_im",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.param_at_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.param_at_half",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.param_at_one",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.right_pole_band",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.left_pole_band",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.upper_half_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.lower_half_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.transition_eq",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.transition_constant_unique",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.upper_half_hasDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.lower_half_hasDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.marked_integral_halves",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.marked_period_transition",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.zero_period_adjacent_constant",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.all_constants_equal_of_zero_marked",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.finite_stage_primitive_of_zero_marked",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.common_reference_in_band",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.reference_constant_independent",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.slit_stage_nesting",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.slit_stages_monotone",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.slit_union_open",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.slit_union_cover",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.union_overlap_one_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.canonical_union_smooth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.canonical_union_deriv",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.union_overlap_eq_of_zero_marked",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.union_primitive_of_zero_marked",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodInjectivity.difference_period",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodInjectivity.periods_equal_exactRel",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodInjectivity.exactRel_iff_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodInjectivity.quotientPeriods_injective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodInjectivity.quotientPeriods_bijective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodInjectivity.realiseClass_quotientPeriods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.stage_subset_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.field_smooth_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.field_deriv_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.field_symmetric_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.canonical_smooth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.canonical_deriv",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.field_pullback_continuous",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.field_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.band_transition_constant",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.transition_eq",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.transition_constant_unique",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.upper_half_hasDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.lower_half_hasDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.marked_integral_halves",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.marked_period_transition",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.zero_period_adjacent_constant",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.all_constants_equal_of_zero_marked",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.finite_stage_primitive_of_zero_marked",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.scalar_smoothAt_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.scalar_path_hasDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.gradient_pullback_continuous",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.gradient_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.gradient_period_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.period_of_exact_difference_on_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.exactStageRel_refl",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.exactStageRel_symm",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.exactStageRel_trans",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.exactStageRel_equivalence",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.exactStageRel_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.stageDifference_period",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.periods_equal_exactStageRel",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.exactStageRel_iff_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.quotientStagePeriods_injective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.finiteExtend_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.stageRealise_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.quotientStagePeriods_realiseClass",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.quotientStagePeriods_surjective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.quotientStagePeriods_bijective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.stageRealiseClass_quotientPeriods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.restrictStage_exactRel",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.quotientRestriction_coordinates",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.restrictUnion_exactRel",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.quotientUnionRestriction_coordinates",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.truncation_coordinate",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.stable_coordinate",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.sequence_reconstructs_coordinate",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.sequence_roundtrip",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.inverse_limit_roundtrip",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.toSequence_injective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.toSequence_surjective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.M4_coordinate_equivalence",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.toSequence_map",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.toSequence_combine",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.to_fromCoordinates",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.from_toCoordinates",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.all_level_compatibility",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.positive_roundtrip",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.nat_roundtrip",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.unionRestricts_coordinates",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.unionRestriction_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.unionRestriction_injective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.unionRestriction_surjective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.unionRestriction_bijective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.native_ext",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.field_ext",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.oneForm_toCovector",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.toCovector_toNative",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.toNative_toCovector",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.scalarPotential_smooth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.zeroForm_scalarPotential",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.nativeExact_iff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.toNative_exact_iff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.nativeExact_refl",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.nativeExact_symm",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.nativeExact_trans",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.toFieldClass_mk",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.toNativeClass_mk",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.toFieldClass_toNativeClass",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.toNativeClass_toFieldClass",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.nativePeriods_mk",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.nativePeriodEquiv_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.fieldAdd_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.fieldSMul_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.periodLinearEquiv_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.fieldClass_add",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.fieldClass_smul",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.fieldClass_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.fieldAdd_exact_compatible",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.fieldSMul_exact_compatible",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.nativeAdd_value",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.nativeSMul_value",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.nativePeriodLinearEquiv_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.nativeCovectorLinearEquiv_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.nativeClass_add",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.nativeClass_smul",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.nativeClass_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.stageAdd_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.stageSMul_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.stagePeriodLinearEquiv_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.stageClass_add",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.stageClass_smul",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.stageClass_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.stageAdd_exact_compatible",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.stageSMul_exact_compatible",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.restrictionLinearMap_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.unionRestrictionLinearMap_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.compatibleCarrierEquiv_family",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.unionToCompatible_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.unionLimitLinearEquiv_agrees",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.nativeLimitLinearEquiv_agrees",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.compatible_all_level",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.nativeNat_period_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.native_ext",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.stage_ext",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.oneForm_toCovector",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.toCovector_toNative",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.toNative_toCovector",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.scalarPotential_smooth_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeExact_iff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.toNative_exact_iff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeExact_equivalence",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.toFieldClass_mk",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.toNativeClass_mk",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.toFieldClass_toNativeClass",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.toNativeClass_toFieldClass",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeStagePeriods_mk",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeStagePeriodLinearEquiv_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeCovectorLinearEquiv_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeAdd_value",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeSMul_value",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeClass_add",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeClass_smul",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeClass_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.toCovector_restrictStage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.toCovector_restrictUnion",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.restrictStage_exact",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.restrictUnion_exact",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.restriction_commutes",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.unionRestriction_commutes",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.quotientRestriction_coordinates",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.quotientUnionRestriction_coordinates",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.native_zero_stage_unique",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeClassInverseLimit.compatibleLinearEquiv_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeClassInverseLimit.compatibleLinearEquiv_symm_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeClassInverseLimit.nativeUnionLimitLinearEquiv_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeClassInverseLimit.compatible_all_level",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeClassInverseLimit.native_family_realised",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        }
+      ]
+    },
+    {
+      "name": "MirrorNumericalInterfaces-p.lean",
+      "sha256": "a2c5cdabb7049dfa181b307c54517361477125d354d7752f41d0127dfd0a5a70",
+      "errors": 0,
+      "sorry_warnings": 0,
+      "declarations": [
+        {
+          "name": "MirrorGeometry.euclidean_distance",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.c_pos",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.c_le_one",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.c_succ",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.c_antitone",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.c_later_le_half",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.center_distance",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.adjacent_center_distance",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.adjacent_radius_sum",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.disk_gap",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.disks_disjoint",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.real_coordinate_bound",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.imag_coordinate_bound",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.next_disk_right_edge",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.next_disk_left_of_boundary",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.next_disk_points_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.next_disk_avoided",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.a_succ_lt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.mem_X",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.X_eq_punctured_rectangle",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.stage_nesting",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.stages_monotone",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.rectangle_open",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.stage_open",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.union_open",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.small_neighbourhood_in_rectangle",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.old_disk_inside_rectangle",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.marked_circle_avoids_disk",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.marked_circle_inside_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.marked_circle_nonempty",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorGeometry.positive_stage_nonempty",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothCutoff.transition_span_eq",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothCutoff.transition_span_pos",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothCutoff.chi_zero_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothCutoff.chi_one_right",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothCutoff.chi_smooth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothCutoff.chi_nonnegative",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothCutoff.chi_le_one",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothPotential.center_left_gap",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothPotential.center_lt_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothPotential.normalisation_pos",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothPotential.F_zero_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothPotential.F_agrees_right",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothPotential.potential_smoothAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothPotential.F_eventually_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothPotential.F_smooth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSmoothPotential.F_zero_on_closed_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPotentialDifferential.chain_eq_eta",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPotentialDifferential.potential_hasFDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPotentialDifferential.potential_fderiv",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCutoffDifferential.F_eventually_agrees_right",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCutoffDifferential.F_hasFDerivAt_right",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCutoffDifferential.F_fderiv_right",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCutoffDifferential.F_hasFDerivAt_zero_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCutoffDifferential.F_fderiv_zero_on_closed_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCutoffDifferential.omega_zero_right",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCutoffDifferential.omega_eq_eta_on_closed_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.quadratic_pos_off_center",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.eta_smoothAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.eta_smoothOn_punctured_plane",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.F_fderiv_smooth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.omega_smoothAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.omega_smoothOn_punctured_plane",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.positive_center_not_mem_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.positive_center_not_mem_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.eta_smoothOn_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCovectorSmoothness.omega_smoothOn_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalSynthesis.omega_tail_zero_on_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalSynthesis.weighted_tail_zero_on_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalSynthesis.weighted_hasSum_on_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalSynthesis.combined_eq_patch_on_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalSynthesis.patch_smoothAt_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalSynthesis.combined_eventually_eq_patch",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalSynthesis.combined_smoothAt_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalSynthesis.combined_smoothOn_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalSynthesis.local_uniform_tail_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.exact_form_bridge",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.zeroForm_smoothAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.exact_form_closed",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.oneForm_smoothAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.chain_eq_eta_off_vertical",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.horizontal_hasFDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.verticalChain_eq_eta",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.vertical_hasFDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.vertical_smoothAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.eta_locally_exact",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.eta_closed",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.cutoff_exact_form_closed",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.omega_closed",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExteriorClosedness.omega_closed_on_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedClosedness.weighted_oneForm",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedClosedness.weighted_form_smoothAt_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedClosedness.weighted_form_closed_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedClosedness.patch_form_succ",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedClosedness.patch_closed_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedClosedness.combined_form_eventually_eq_patch",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedClosedness.combined_closed_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.loopRadius_pos",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.param_mem_circle",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.param_mem_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.param_mem_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.param_smooth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.param_endpoints",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.param_hasDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.eta_rotated_radius",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.eta_velocity_one",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.param_re_lt_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.omega_eq_eta_on_param",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.omega_velocity_one",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.path_extend_eq",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.path_range_inside_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.path_derivWithin",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.eta_curveIntegralFun_one",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.omega_curveIntegralFun_one",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.eta_curveIntegrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.omega_curveIntegrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.eta_period_one",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedLoopDiagonal.omega_period_one",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.param_re_upper",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.param_re_lower",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.later_circle_left",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.earlier_circle_right",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_zero_earlier",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_curveFun_zero_earlier",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_integrable_earlier",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_period_zero_earlier",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_eq_eta_later",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.potential_path_hasDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.velocity_continuous",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.eta_pullback_continuous_later",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.eta_pullback_integrable_later",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_curveFun_pullback_later",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_integrable_later",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_period_zero_later",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_integrable_all",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOffDiagonalPeriods.omega_period_matrix",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.weighted_function_eq_smul",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.weighted_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.weighted_period",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.patch_function_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.patch_function_succ",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.patch_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.patch_period_sum",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.patch_period_own",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.combined_curveFun_eq_patch",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.combined_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.combined_period",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorCombinedPeriods.arbitrary_marked_periods_realised",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExactPeriods.scalar_smoothAt_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExactPeriods.scalar_path_hasDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExactPeriods.gradient_pullback_continuous",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExactPeriods.gradient_curveFun_eq",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExactPeriods.gradient_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExactPeriods.gradient_period_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExactPeriods.period_add_gradient_eq",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorExactPeriods.period_of_exact_difference_on_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.field_curveFun_eq",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.field_pullback_continuous",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.smooth_field_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.exactRel_refl",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.exactRel_symm",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.exactRel_trans",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.exactRel_equivalence",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.exactRel_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.quotientPeriods_mk",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.positiveExtend_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.realise_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.quotientPeriods_realiseClass",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodQuotient.quotientPeriods_surjective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalExactness.oneForm_fderiv",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalExactness.extDeriv_covector_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalExactness.closed_iff_symmetric",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalExactness.smooth_closed_convex_primitive",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalExactness.closedField_primitive_on_convex",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorLocalExactness.closedField_local_primitive",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorZeroLoopPrimitive.pieces_contained",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorZeroLoopPrimitive.pieces_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorZeroLoopPrimitive.path_integrals_equal",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorZeroLoopPrimitive.local_segment_piece",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorZeroLoopPrimitive.potential_eq_path_integral",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorZeroLoopPrimitive.potential_increment_neighbourhood",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorZeroLoopPrimitive.potential_hasFDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorZeroLoopPrimitive.global_smooth_primitive",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.interp_bounds",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.line_re",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.line_im",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.point_rectangle",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.rectangle_line",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.high_im_clear",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.high_re_clear",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.anchor_mem",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.signed_abs_le",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.vertical_to_corridor",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.segment_piece",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.horizontal_corridor",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.right_connector",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.stage_piecewise_reach",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.pieces_mono",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.union_piecewise_reach",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPuncturedCorridor.union_primitive_of_zero_piece_loops",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.mem_verticalClear",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.verticalClear_open",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.verticalClear_same_re",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.verticalClear_in_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.verticalClear_of_real",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.slit_open",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.corridor_point_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.slit_cover",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.slit_overlap",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.slit_vertical",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.slit_segment_piece",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.slit_horizontal",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.slit_piecewise_reach",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.slit_anchor_mem",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.squareFormula_contDiff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.verticalSquare_contDiff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.verticalSquare_range_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitSquare.vertical_square_boundary",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.corridor_convex",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.corridor_subset",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.up_mem_corridor",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.anchor_mem_corridor",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.vertical_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.horizontal_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.square_bottom_integral",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.square_top_integral",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.horizontal_increment",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.chart_increment",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.chart_increment_neighbourhood",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.chart_hasFDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.chart_contDiffOn",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorSlitPrimitive.slit_primitive",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorClosedFieldSlit.slit_subset_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorClosedFieldSlit.field_smooth_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorClosedFieldSlit.field_deriv_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorClosedFieldSlit.field_symmetric_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorClosedFieldSlit.field_slit_primitive",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPrimitiveGluing.primitive_difference_constant",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPrimitiveGluing.primitive_normalized_unique",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPrimitiveGluing.glue_eq_on_charts",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPrimitiveGluing.glue_eventually_eq_on_charts",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPrimitiveGluing.glue_smoothOn",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPrimitiveGluing.glue_hasFDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPrimitiveGluing.primitive_two_chart_gluing",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.lower_lt_upper",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.lower_ge_a",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.upper_le_two",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.band_open",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.band_convex",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.band_nonempty",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.band_subset_overlap",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.center_cut",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.overlap_mem_band",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.band_disjoint_ordered",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.band_unique",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.overlap_eq_union_bands",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.slit_overlap_eq_union_bands",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorOverlapBands.band_preconnected",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorBandTransition.canonical_smooth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorBandTransition.canonical_deriv",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorBandTransition.band_upper",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorBandTransition.band_lower",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorBandTransition.band_transition_constant",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.param_re",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.param_im",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.param_at_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.param_at_half",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.param_at_one",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.right_pole_band",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.left_pole_band",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.upper_half_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.lower_half_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.transition_eq",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.transition_constant_unique",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.upper_half_hasDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.lower_half_hasDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.marked_integral_halves",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.marked_period_transition",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.zero_period_adjacent_constant",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.all_constants_equal_of_zero_marked",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorMarkedTransitionPeriods.finite_stage_primitive_of_zero_marked",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.common_reference_in_band",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.reference_constant_independent",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.slit_stage_nesting",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.slit_stages_monotone",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.slit_union_open",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.slit_union_cover",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.union_overlap_one_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.canonical_union_smooth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.canonical_union_deriv",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.union_overlap_eq_of_zero_marked",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorUnionPrimitive.union_primitive_of_zero_marked",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodInjectivity.difference_period",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodInjectivity.periods_equal_exactRel",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodInjectivity.exactRel_iff_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodInjectivity.quotientPeriods_injective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodInjectivity.quotientPeriods_bijective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPeriodInjectivity.realiseClass_quotientPeriods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.stage_subset_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.field_smooth_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.field_deriv_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.field_symmetric_slit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.canonical_smooth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.canonical_deriv",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.field_pullback_continuous",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.field_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.band_transition_constant",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.transition_eq",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.transition_constant_unique",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.upper_half_hasDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.lower_half_hasDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.marked_integral_halves",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.marked_period_transition",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.zero_period_adjacent_constant",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.all_constants_equal_of_zero_marked",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteCarrier.finite_stage_primitive_of_zero_marked",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.scalar_smoothAt_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.scalar_path_hasDerivAt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.gradient_pullback_continuous",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.gradient_integrable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.gradient_period_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.period_of_exact_difference_on_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.exactStageRel_refl",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.exactStageRel_symm",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.exactStageRel_trans",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.exactStageRel_equivalence",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.exactStageRel_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.stageDifference_period",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.periods_equal_exactStageRel",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.exactStageRel_iff_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.quotientStagePeriods_injective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.finiteExtend_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.stageRealise_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.quotientStagePeriods_realiseClass",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.quotientStagePeriods_surjective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.quotientStagePeriods_bijective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.stageRealiseClass_quotientPeriods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.restrictStage_exactRel",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.quotientRestriction_coordinates",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.restrictUnion_exactRel",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteQuotient.quotientUnionRestriction_coordinates",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.truncation_coordinate",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.stable_coordinate",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.sequence_reconstructs_coordinate",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.sequence_roundtrip",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.inverse_limit_roundtrip",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.toSequence_injective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.toSequence_surjective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.M4_coordinate_equivalence",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.toSequence_map",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorInverseLimit.toSequence_combine",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.to_fromCoordinates",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.from_toCoordinates",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.all_level_compatibility",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.positive_roundtrip",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.nat_roundtrip",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.unionRestricts_coordinates",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.unionRestriction_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.unionRestriction_injective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.unionRestriction_surjective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorQuotientInverseLimit.unionRestriction_bijective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.native_ext",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.field_ext",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.oneForm_toCovector",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.toCovector_toNative",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.toNative_toCovector",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.scalarPotential_smooth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.zeroForm_scalarPotential",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.nativeExact_iff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.toNative_exact_iff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.nativeExact_refl",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.nativeExact_symm",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.nativeExact_trans",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.toFieldClass_mk",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.toNativeClass_mk",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.toFieldClass_toNativeClass",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.toNativeClass_toFieldClass",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.nativePeriods_mk",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNativeForms.nativePeriodEquiv_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.fieldAdd_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.fieldSMul_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.periodLinearEquiv_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.fieldClass_add",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.fieldClass_smul",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.fieldClass_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.fieldAdd_exact_compatible",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.fieldSMul_exact_compatible",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.nativeAdd_value",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.nativeSMul_value",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.nativePeriodLinearEquiv_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.nativeCovectorLinearEquiv_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.nativeClass_add",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.nativeClass_smul",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorPointwiseLinear.nativeClass_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.stageAdd_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.stageSMul_periods",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.stagePeriodLinearEquiv_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.stageClass_add",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.stageClass_smul",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.stageClass_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.stageAdd_exact_compatible",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.stageSMul_exact_compatible",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.restrictionLinearMap_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.unionRestrictionLinearMap_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.compatibleCarrierEquiv_family",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.unionToCompatible_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.unionLimitLinearEquiv_agrees",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.nativeLimitLinearEquiv_agrees",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.compatible_all_level",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteLinear.nativeNat_period_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.native_ext",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.stage_ext",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.oneForm_toCovector",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.toCovector_toNative",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.toNative_toCovector",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.scalarPotential_smooth_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeExact_iff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.toNative_exact_iff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeExact_equivalence",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.toFieldClass_mk",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.toNativeClass_mk",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.toFieldClass_toNativeClass",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.toNativeClass_toFieldClass",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeStagePeriods_mk",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeStagePeriodLinearEquiv_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeCovectorLinearEquiv_apply",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeAdd_value",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeSMul_value",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeClass_add",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeClass_smul",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.nativeClass_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.toCovector_restrictStage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.toCovector_restrictUnion",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.restrictStage_exact",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.restrictUnion_exact",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.restriction_commutes",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.unionRestriction_commutes",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.quotientRestriction_coordinates",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.quotientUnionRestriction_coordinates",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorFiniteNativeForms.native_zero_stage_unique",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.a_pos",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.stage_subset_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.left_collar",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.left_edge_mem",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.union_bounds",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.union_high_mem_stage",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.project_continuous",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.project_mem_on_union",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.project_mem_closure",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.closures_nested",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.Kn_real_bound",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.KInfinity_bounds",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.Kn_nonempty",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.KInfinity_nonempty",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.KInfinity_bounded",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.Kn_bounded",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.project_dist_bound",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.hausdorff_upper",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.c_tendsto_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.origin_mem",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.origin_infDist",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.hausdorff_finite",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorHausdorff.hausdorff_exact",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNumericalInterfaces.stage_finrank",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNumericalInterfaces.native_stage_finrank",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNumericalInterfaces.geometric_halving",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorNumericalInterfaces.geometric_tendsto_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        }
+      ]
+    },
+    {
+      "name": "Mirrors.lean",
+      "sha256": "8723d795f0f8e5613f5057dcf18328f21898a7cba954d845acf0e09fefcf8bf7",
+      "errors": 0,
+      "sorry_warnings": 0,
+      "declarations": [
+        {
+          "name": "Mirrors.M1_fibre_sufficiency",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.M1_unique",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.decoder_gives_datum_properties",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.all_properties_force_injective",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.complete_datum_misses_enlarged_object",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.conjunction_constant_on_fibres",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.M2_forward",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.M2_equality_of_root_witness",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.M2_equality",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.global_coverage_misses_root",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.M6_joint_contract",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.shared_control_no_common_witness",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.shared_control_individual_witnesses",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.prefixClosure_eq_closure",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.M3_excluded_prefix_iff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.not_Pstar_oneZeros",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.Pstar_altTail",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.M5_mixed_fibre",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.legal_prefix_has_admitted_extension",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.oneZeros_in_prefix_closure",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.finite_word_is_coboundary",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.rechosen_family_obeys_exact_law",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.pairing_constant",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.exists_family_pulled_back",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.posthoc_witness_iff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.U_separates_realised_from_uniform",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.late_witness_keeps_the_period",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.doubling_keeps_non_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.partial_pos",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.scale_law_formula",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.lower_bound_iff_bounded",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.repeated_scale_two_unbounded",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.scale_one_half_bounded",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.halving_factor",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.halving_depth_le_valuation",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.halving_reaches_depth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.no_infinite_halving",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.lattice_numerators_halve",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.real_halving_continues",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.doubling_stays_on_the_lattice",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.telescoping",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.solvable_iff_integer_limit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.finite_prefix_removed",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.solvable_tail",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.solvable_congr_tail",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.solvable_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.solvable_add",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.binary_solvable_eventually_constant",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.Pstar_iff_not_solvable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.all_ones_infinite_with_zero_class",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.same_class_iff_same_tail",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.real_word_always_removed",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.section7_inequalities",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.external_channel_toy",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.xor_fibres",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.mixed_fibre_refutes_completeness",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.ordered_traces_separate",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "Mirrors.margin_positive_at_every_level",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        }
+      ]
+    },
+    {
+      "name": "MirrorsComposition.lean",
+      "sha256": "e96cfeaf454ea42b8d37e446ffcab2e35208db2e03132048c3ac24ae8df02056",
+      "errors": 0,
+      "sorry_warnings": 0,
+      "declarations": [
+        {
+          "name": "MirrorsComposition.count_mono",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.count_mul_floor_le",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.count_bounded",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.exists_bound",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.eventually_silent",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.residue_is_a_missing_event",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.no_infinite_events",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.position_lt",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.silent_after_depth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.determined_at_depth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.decided_at_depth",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.sum_unitCost",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.count_late",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.count_quiet",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.late_paid",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.quiet_paid",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.spendsAll_has_mixed_fibres",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.late_breaks_silence_bound",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.quiet_is_a_residue",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.driven_count",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.driven_spends_all",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.late_zero_driven",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.late_zero_silence_bound",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.floor_is_needed",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.toy_ledger",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.toy_ledger_below_capacity",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.toy_ledger_half",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.toy_has_no_floor",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.floor_bounds_horizon",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.integral_witness_bounds_horizon",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.infinite_horizon_has_no_floor",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.infinite_horizon_period_tends_to_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.integral_witness_has_finite_life",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.halving_sum",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.halving_witness_is_affordable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.halving_maintenance_is_the_toy_ledger",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.constant_witness_is_not_affordable",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.frontier_iff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.payable_antitone_magnitude",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.payable_finite",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.capable_iff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.run_cycle",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.continues_of_cycle",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.stuck_of_no_restart",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.not_continues_of_stuck",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.four_cells",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.step_agree",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.runs_agree",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.silence_reveals",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.capable_iff_bounded_silence",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.key_sufficient_iff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.reservoir_eq_iff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.load_is_a_coordinate",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.PS_prep_iff",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.residual_depends_on_last_bit",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.defect_word_is_explained",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.every_window_is_explained",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.eq_zero_of_all_pow_four_dvd",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.altLog_not_explained",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.exact_integral_family_is_zero",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "MirrorsComposition.exact_real_family",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        }
+      ]
+    }
+  ]
+}
